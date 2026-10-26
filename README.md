@@ -89,13 +89,11 @@ My work spans public information, business bookings and communications, with a f
 
 ## Technical skills
 
-| Area | Tools I use |
-| --- | --- |
-| Frontend | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
-| Backend & data | Node.js, Express, PostgreSQL, Supabase |
-| Infrastructure | Cloudflare, nginx, GitHub Actions |
-| Integrations | Stripe Connect, Vonage |
-| Quality & tooling | Vite, Vitest, Playwright, Node.js test runner |
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend & data:** Node.js, Express, PostgreSQL, Supabase
+- **Infrastructure:** Cloudflare, nginx, GitHub Actions
+- **Integrations:** Stripe Connect, Vonage
+- **Quality & tooling:** Vite, Vitest, Playwright, Node.js test runner
 
 ## Open source
 
