@@ -1,5 +1,3 @@
-# Hi, I'm mezy
-
 I build full-stack web applications with React, TypeScript, Node.js and PostgreSQL.
 I'm interested in practical developer tools, reliable API integrations and clear deployment checks.
 
